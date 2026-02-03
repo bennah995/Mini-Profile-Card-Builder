@@ -1,4 +1,4 @@
-// a button to trigger displain everything once the user clicks it after inputing everything
+// a button to trigger display everything in the  once the user clicks it after inputing everything
 let btnUpdate = document.getElementById("updateBtn");
 btnUpdate.addEventListener(`click`, () => {
 
